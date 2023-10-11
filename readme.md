@@ -1,4 +1,4 @@
- > ## Get started with the tutorial [here](https://gamedev-resources.com/extending-the-selection-logic/).
+> View the entire tutorial on [What Up Games](https://www.whatupgames.com).
  
  # Challenge Solution: Extending the selection logic
 
